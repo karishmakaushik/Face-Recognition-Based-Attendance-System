@@ -1,0 +1,6 @@
+tensorflow
+django
+pyqt5
+opencv
+mtcnn
+sklearn
